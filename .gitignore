@@ -1,0 +1,16 @@
+# no asterisk - supported by scc
+#ign
+
+## the double patterns below are not supported by scc - see https://git-scm.com/docs/gitignore
+
+# double asterisks syntax - same effect at in line 1
+#**/ign
+
+# ignore html
+#ign/**/*.html
+
+# ignore txt
+# **/ign/*.txt
+
+# ignore html, xml
+#ign/**
